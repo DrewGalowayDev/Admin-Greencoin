@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* GreenCoin Farmer Dashboard Design System */
+
+@layer base {
+  :root {
+    /* GreenCoin Color Palette */
+    --primary: 158 69% 34%;              /* #1a936f */
+    --primary-dark: 155 81% 23%;         /* #0d6e50 */
+    --primary-light: 160 76% 49%;        /* #2ec294 */
+    --secondary: 131 51% 69%;            /* #88d498 */
+    --accent: 100 25% 81%;               /* #c6dabf */
+    
+    /* Background gradients - dark theme */
+    --background: 198 52% 11%;           /* #0f2027 base */
+    --background-secondary: 201 36% 19%; /* #203a43 */
+    --background-tertiary: 138 28% 25%;  /* #2c5530 */
+    
+    --foreground: 0 0% 100%;             /* white text */
+    --foreground-light: 100 25% 81%;     /* #c6dabf light text */
+    
+    /* Card backgrounds */
+    --card: 0 0% 100% / 0.05;            /* rgba(255,255,255,0.05) */
+    --card-foreground: 0 0% 100%;
+    
+    /* UI Elements */
+    --border: 158 69% 34% / 0.2;         /* primary with opacity */
+    --input: 0 0% 100% / 0.1;            /* rgba(255,255,255,0.1) */
+    --ring: 158 69% 34%;                 /* primary */
+    
+    /* Status colors */
+    --success: 134 61% 41%;              /* #28a745 */
+    --warning: 45 100% 51%;              /* #ffc107 */
+    --danger: 354 70% 54%;               /* #dc3545 */
+    --info: 188 78% 41%;                 /* #17a2b8 */
+    
+    /* Layout */
+    --sidebar-width: 260px;
+    --header-height: 80px;
+    --radius: 0.875rem;                  /* 14px */
+    
+    /* Sidebar */
+    --sidebar-background: 198 52% 11% / 0.95;  /* rgba(15, 32, 39, 0.95) */
+    --sidebar-foreground: 0 0% 100%;
+    --sidebar-border: 158 69% 34% / 0.3;
+    
+    /* Light theme overrides */
+    --light-background: 210 17% 98%;     /* #f8f9fa */
+    --light-foreground: 0 0% 20%;        /* #333333 */
+    --light-card: 0 0% 100%;             /* white */
+    --light-border: 0 0% 88%;            /* #e0e0e0 */
+  }
+  
+  .light {
+    --background: 210 17% 98%;           /* #f8f9fa */
+    --foreground: 0 0% 20%;              /* #333333 */
+    --foreground-light: 220 9% 46%;      /* #6c757d */
+    
+    --card: 0 0% 100%;                   /* white */
+    --card-foreground: 0 0% 20%;
+    
+    --border: 0 0% 88%;                  /* #e0e0e0 */
+    --input: 0 0% 100%;
+    
+    --sidebar-background: 0 0% 100% / 0.95;
+    --sidebar-foreground: 0 0% 20%;
+    --sidebar-border: 0 0% 88%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans;
+    font-family: 'Poppins', 'Segoe UI', Taurus, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, hsl(var(--background)) 0%, hsl(var(--background-secondary)) 50%, hsl(var(--background-tertiary)) 100%);
+    min-height: 100vh;
+  }
+}

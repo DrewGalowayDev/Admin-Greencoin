@@ -56,61 +56,82 @@
 
 ## 👥 Development Team
 
-<div align="center">
 
-### 🌟 **Core Developers**
+<div align="left">
+
+## 🌟 **Core Developers**
 
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
 
-### 👨‍💻 **Levi Njoroge**  
-**Lead Blockchain Developer**
+<!-- Mobile Responsive Alternative -->
+<div class="dev-cards-mobile" style="display: none;">
 
-🎓 **Senior Full Stack Developer** at IMS Guru  
-🏆 **Expertise**: C#, ASP.NET Core, Python, Flask, Cloud Solutions  
-🌍 **Focus**: Backend Architecture & Smart Contract Development  
+### 👨‍💻 **Levi Njoroge** - *Lead Blockchain Developer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kimani-levi/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/LeviNjoroge)  
+<div style="border: 2px solid #e8f5e8; border-radius: 10px; padding: 15px; margin: 15px 0; background: linear-gradient(135deg, #f8fff8 0%, #e8f5e8 100%);">
 
-*"Delivering high-quality, practical solutions tailored to meet diverse business needs with extensive knowledge of all major programming languages."*
+**🎓 Experience:** Senior Full Stack Developer at IMS Guru  
+**🏆 Expertise:** C#, ASP.NET Core, Python, Flask, Cloud Solutions  
+**🌍 Focus:** Backend Architecture & Smart Contract Development  
 
-</td>
-<td align="center" width="33%">
+**Skills:** `C#` `ASP.NET` `Python` `Flask` `Motoko` `Cloud Solutions`
 
-### 👨‍💻 **Robinson Otochi**  
-**Software Engineer & Agri-Climate specialist PHP Laravel Developer**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kimani-levi/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/LeviNjoroge)
 
-🎓 **Bachelor's in Software Engineering** – Kisii University  
-🤖 **Bachelor's in Robotics & Automation** – JKUAT  
-🌱 **Focus**: Frontend Development & Climate Solutions  
+> *"Delivering high-quality, practical solutions tailored to meet diverse business needs with extensive knowledge of all major programming languages."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/robinson-otochi)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/DrewGalowayDev)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=web)](https://drewgalowaydev.github.io/robinsoncv/)  
+</div>
 
-*"A passionate developer driven by impact — building multi-versated projects & systems handling full stack web development, AI, at the intersection of software engineering, blockchain for social good."*
+### 👨‍💻 **Robinson Otochi** - *Software Engineer & Agri-Climate Specialist*
 
-</td>
-<td align="center" width="33%">
+**Software Engineer & Agri-Climate Specialist**
 
-### 👨‍💻 **Joseph Chacha**  
-**Full Stack Developer & Cybersecurity Expert**
+<div style="border: 2px solid #e8f5e8; border-radius: 10px; padding: 15px; margin: 15px 0; background: linear-gradient(135deg, #f8fff8 0%, #e8f5e8 100%);">
 
-🎓 **Bachelor's in Software Engineering** – Kisii University  
-🛡️ **Focus**: Cybersecurity, Frontend Dev & Climate Tech  
+**🎓 Education:** Bachelor's in Software Engineering – Kisii University  
+**🤖 Additional:** Bachelor's in Robotics & Automation – JKUAT  
+**🌱 Focus:** Frontend Development & Climate Solutions  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/josephchacha)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/inognito123)  
+**Skills:** `PHP Laravel`  `Mobile Developer` `MERN stack` `TypeScript` `AI/ML` `Climate Tech` `Full Stack`
 
-*"Passionate about creating accessible, user-friendly applications that solve real-world problems for African communities."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/robinson-otochi) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/DrewGalowayDev) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=web)](https://drewgalowaydev.github.io/robinsoncv/)
 
-</td>
-  </tr>
-</table>
+> *"A passionate developer driven by impact — building multi-versated projects & systems handling full stack web development, AI, at the intersection of software engineering, blockchain for social good."*
+
+</div>
+
+### 👨‍💻 **Joseph Chacha** - *Full Stack Developer & Cybersecurity Expert*
+
+<div style="border: 2px solid #e8f5e8; border-radius: 10px; padding: 15px; margin: 15px 0; background: linear-gradient(135deg, #f8fff8 0%, #e8f5e8 100%);">
+
+**🎓 Education:** Bachelor's in Software Engineering – Kisii University  
+**🛡️ Focus:** Cybersecurity, Frontend Dev & Climate Tech  
+
+**Skills:** `Cybersecurity` `Frontend Dev` `JavaScript` `React` `Security` `Climate Tech`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/josephchacha) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/inognito123)
+
+> *"Passionate about creating accessible, user-friendly applications that solve real-world problems for African communities."*
+
+</div>
+
+### 👨‍💻 **Gaudencia Omondi** - *MERN Stack Developer & IOT Expert Governance expert*
+
+<div style="border: 2px solid #e8f5e8; border-radius: 10px; padding: 15px; margin: 15px 0; background: linear-gradient(135deg, #f8fff8 0%, #e8f5e8 100%);">
+
+**🎓 Education:** Bachelor's in Software Engineering – Kisii University  
+**🛡️ Focus:**  Frontend Dev & Governance  
+
+**Skills:** `React developer` `Frontend Dev` `JavaScript` `React` `Governance` `Climate Tech`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/josephchacha) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/dency-agao)
+
+> *"worth in solving Governance problems and also passionate about creating accessible, user-friendly applications that solve real-world problems for African Goverments."*
+
+</div>
+
+</div>
 
 
 ---
